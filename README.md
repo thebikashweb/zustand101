@@ -1,6 +1,6 @@
 ## State management with Zustand
 
-## [Video Tutorial](https://youtu.be/CYKDtVZr_Jw)
+## [Video Tutorial](https://youtu.be/-h0ThFht1q0)
 ## [Demo](https://bw-zustand.netlify.com)
 
 
